@@ -22,6 +22,14 @@ You can install the required libraries using pip:
 ```bash
 pip install rich patool
 ```
+
+## How to run
+
+```bash
+git clone https://github.com/Ruoo21/QuickExtract.git
+cd QuickExtract
+python quickextract.py
+```
 You can find 7zip here:
 
 <a href=https://www.7-zip.org/download.html>https://www.7-zip.org/download.html</a>
